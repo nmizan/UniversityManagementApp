@@ -1,0 +1,9 @@
+G:\asp.net\Apps\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+G:\asp.net\Apps\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+G:\asp.net\Apps\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+G:\asp.net\Apps\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+G:\asp.net\Apps\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentEntryUI.resources
+G:\asp.net\Apps\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+G:\asp.net\Apps\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+G:\asp.net\Apps\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+G:\asp.net\Apps\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
